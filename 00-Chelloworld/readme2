@@ -1,1 +1,3 @@
-nueva carpeta chelloworld
+en esta carpeta llevamos el seguimiento de nuestro TP0.
+actualmente instalamos Gcc 14.2.0.
+comprobamos la versión con el comando gcc --version en la terminal: recibimos el mensaje "gcc.exe (Rev3, Built by MSYS2 project) 14.2.0 / Copyright (C) 2024 Free Software Foundation, Inc." 
